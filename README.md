@@ -1,1 +1,1 @@
-# Blogs-Minecraft-
+# Blog-Minecraft-
